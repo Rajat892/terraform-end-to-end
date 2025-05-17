@@ -18,3 +18,7 @@ variable "machine" {
 variable "ip-range" {
   type = string
 }
+
+variable "project-name" {
+  type = string  
+}
